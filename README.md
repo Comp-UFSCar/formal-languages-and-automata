@@ -1,4 +1,3 @@
-# Formal Languages and Automata 2012-2
+# Formal Languages and Automata
 
-Class at UFSCar, 2012-2.
-
+Class at UFSCar.
